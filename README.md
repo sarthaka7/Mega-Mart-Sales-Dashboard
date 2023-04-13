@@ -4,7 +4,7 @@ The owner of the Mega Mart Store wants us to create an interactive dashboard to 
 
 # Problem Statement - 
 Questions
-Compare the sum of the amounts of different states.
+To Compare the Monthy profit of differen states.
 
 Top 5 spending customers to buy products?
 
